@@ -1,2 +1,2 @@
-JohnDoex,John,Doexx,1234ABCD,1500.0
-GeorCost,George,Costanza,Architect123,80.0
+JohnSmit,John,Smith,1234AbcD,1075.0
+GeorCost,George,Costanza,Architect123,75.0
