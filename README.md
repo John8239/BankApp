@@ -17,7 +17,7 @@ This program is a sample banking app, it:
 <p align="center"> <img src="imgs/BankAppExample2.png" width=360> </p>
 <p align="center"> <img src="imgs/BankAppExample3.png" width=440> </p>
 
-3. Now the user can rerun the program as a returning user annd will have an interaction like this:
+3. Now the user can rerun the program as a returning user and will have an interaction like this:
 <p align="center"> <img src="imgs/BankAppExample4.png" width=360> </p>
 
 4. Then both the ClientList.txt file will be updated with the new balance on the account and the user transaction file will record the actions taken:
